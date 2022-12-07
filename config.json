@@ -1,0 +1,8 @@
+{
+    "modules": [
+        "login",
+        "dashboard",
+        "product_list",
+        "product_detail"
+    ]
+}
